@@ -1,0 +1,15 @@
+
+packages: . 
+
+name: my-proyect
+version: 0.1.0.0
+build-type: Simple
+cabale-version: >=1.10
+
+executable my-executable
+  main-is: Main.hs
+  build-depends:
+    base >= 4.14 && < 5
+hs-source-dirs:
+  app
+default-language: Haskell2010

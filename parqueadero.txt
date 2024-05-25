@@ -1,0 +1,3 @@
+placa= GEF 497: Entrada= 2024-05-24 23:53:31.620353874 UTC, Salida= Todavía en el parqueadero
+placa= TGE 950: Entrada= 2024-05-24 23:51:05.476761131 UTC, Salida= Todavía en el parqueadero
+placa= TXT 000: Entrada= 2024-05-24 23:50:14.052501594 UTC, Salida= 2024-05-24 23:51:25.435045344 UTC
